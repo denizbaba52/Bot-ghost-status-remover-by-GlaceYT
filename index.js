@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Roblox Giftcards 🌴"];
 
 
 let currentIndex = 0;
